@@ -6,6 +6,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
@@ -13,6 +14,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
