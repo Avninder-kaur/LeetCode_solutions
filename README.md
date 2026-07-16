@@ -11,6 +11,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -57,4 +59,9 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
