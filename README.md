@@ -12,6 +12,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
 ## Math
 |  |
 | ------- |
