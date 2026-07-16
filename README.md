@@ -11,6 +11,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -22,6 +23,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
@@ -36,6 +38,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 ## Union-Find
 |  |
 | ------- |
