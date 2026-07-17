@@ -7,6 +7,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
