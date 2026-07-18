@@ -71,6 +71,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0069-sqrtx](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -100,4 +101,5 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
