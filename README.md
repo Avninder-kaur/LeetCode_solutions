@@ -7,6 +7,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -69,6 +70,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0162-find-peak-element) |
