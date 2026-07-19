@@ -20,6 +20,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0374-guess-number-higher-or-lower](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
