@@ -11,6 +11,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -74,6 +75,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0033-search-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0278-first-bad-version) |
