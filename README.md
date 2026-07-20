@@ -28,6 +28,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
