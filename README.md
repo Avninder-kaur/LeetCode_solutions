@@ -27,6 +27,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -44,6 +45,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
