@@ -44,6 +44,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 ## Union-Find
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 ## Number Theory
 |  |
 | ------- |
