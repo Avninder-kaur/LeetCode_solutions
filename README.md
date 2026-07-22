@@ -137,4 +137,12 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
