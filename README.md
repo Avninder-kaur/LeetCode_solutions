@@ -41,6 +41,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
@@ -150,6 +151,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -162,5 +164,6 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
