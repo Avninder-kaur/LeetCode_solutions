@@ -120,6 +120,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0069-sqrtx) |
@@ -147,6 +148,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -160,6 +162,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
