@@ -7,6 +7,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
@@ -61,6 +62,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
@@ -184,6 +186,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
