@@ -245,4 +245,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
