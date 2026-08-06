@@ -212,6 +212,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
@@ -238,4 +239,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
