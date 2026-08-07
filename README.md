@@ -64,6 +64,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1544-make-the-string-great) |
@@ -206,6 +207,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0160-intersection-of-two-linked-lists](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -219,6 +221,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0445-add-two-numbers-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1544-make-the-string-great) |
@@ -239,6 +242,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
