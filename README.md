@@ -7,6 +7,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
@@ -196,6 +197,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0061-rotate-list) |
@@ -255,4 +257,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
