@@ -69,6 +69,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 ## Sorting
 |  |
@@ -228,6 +229,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
