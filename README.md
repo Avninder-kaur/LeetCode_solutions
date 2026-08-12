@@ -64,6 +64,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
@@ -220,6 +221,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
