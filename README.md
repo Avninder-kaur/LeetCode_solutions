@@ -16,6 +16,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0078-subsets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0162-find-peak-element) |
@@ -141,6 +142,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0007-reverse-integer](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
@@ -223,6 +225,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
