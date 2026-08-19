@@ -11,6 +11,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0018-4sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0078-subsets) |
@@ -286,6 +287,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 ## Backtracking
@@ -299,6 +301,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 ## Quicksort
 |  |
