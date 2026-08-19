@@ -39,6 +39,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0735-asteroid-collision](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -290,6 +291,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0860-lemonade-change) |
 ## Backtracking
 |  |
 | ------- |
