@@ -13,6 +13,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0035-search-insert-position](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -289,6 +290,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0860-lemonade-change) |
@@ -304,6 +306,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 ## Quicksort
 |  |
