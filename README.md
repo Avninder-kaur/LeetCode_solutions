@@ -34,6 +34,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0540-single-element-in-a-sorted-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -238,6 +239,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0445-add-two-numbers-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -263,6 +265,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
