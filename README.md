@@ -28,6 +28,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
@@ -86,6 +87,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 ## Union-Find
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0160-intersection-of-two-linked-lists](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -284,6 +287,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -296,4 +300,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
