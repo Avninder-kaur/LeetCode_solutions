@@ -50,6 +50,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Union-Find
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0860-lemonade-change) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Backtracking
 |  |
 | ------- |
