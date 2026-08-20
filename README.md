@@ -19,6 +19,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -310,6 +311,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Quicksort
 |  |
 | ------- |
