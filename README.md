@@ -32,6 +32,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
@@ -92,6 +93,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 ## Union-Find
 |  |
@@ -295,6 +297,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0860-lemonade-change) |
 ## Backtracking
@@ -312,6 +315,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
