@@ -86,6 +86,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1544-make-the-string-great](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 ## Sorting
 |  |
@@ -331,18 +332,29 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
