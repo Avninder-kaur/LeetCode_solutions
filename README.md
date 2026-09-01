@@ -268,6 +268,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -360,4 +361,16 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
