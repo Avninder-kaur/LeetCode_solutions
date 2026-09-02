@@ -79,6 +79,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
+| [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -335,18 +336,21 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
@@ -356,10 +360,12 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Tree
 |  |
@@ -373,4 +379,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0100-same-tree) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
