@@ -305,6 +305,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0596-classes-with-at-least-5-students](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
 |  |
