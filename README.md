@@ -300,6 +300,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
 |  |
 | ------- |
