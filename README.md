@@ -302,6 +302,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0181-employees-earning-more-than-their-managers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
 |  |
