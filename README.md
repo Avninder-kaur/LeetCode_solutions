@@ -277,6 +277,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0144-binary-tree-preorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0110-balanced-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -407,8 +409,13 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0110-balanced-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Manacher
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
