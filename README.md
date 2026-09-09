@@ -251,6 +251,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -271,6 +272,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
@@ -385,6 +387,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -405,6 +408,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
