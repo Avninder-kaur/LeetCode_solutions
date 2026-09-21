@@ -32,6 +32,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -338,6 +339,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0039-combination-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0216-combination-sum-iii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
