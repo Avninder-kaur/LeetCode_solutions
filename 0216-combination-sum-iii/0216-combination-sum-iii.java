@@ -1,42 +1,36 @@
-import java.util.*;
-
 class Solution {
-
     public List<List<Integer>> combinationSum3(int k, int n) {
-
+        
         List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> ds = new ArrayList<>();
 
-        solve(1, k, n, new ArrayList<>(), ans);
+        solve(1, k, n, 0, ds, ans);
 
         return ans;
     }
 
-    void solve(int start, int k, int n,
-               List<Integer> list,
-               List<List<Integer>> ans) {
+    void solve(int index, int k, int n, int sum,
+               List<Integer> ds, List<List<Integer>> ans) {
 
-        // We found a valid combination
-        if (k == 0 && n == 0) {
-            ans.add(new ArrayList<>(list));
+        // Base case
+        if (ds.size() == k) {
+            if (sum == n) {
+                ans.add(new ArrayList<>(ds));
+            }
             return;
         }
 
-        // Invalid case
-        if (k == 0 || n < 0) {
+        // Invalid condition
+        if (sum > n || index > 9) {
             return;
         }
 
-        // Try numbers from start to 9
-        for (int i = start; i <= 9; i++) {
+        // Take the current number
+        ds.add(index);
+        solve(index + 1, k, n, sum + index, ds, ans);
 
-            // Choose i
-            list.add(i);
-
-            // Recursion
-            solve(i + 1, k - 1, n - i, list, ans);
-
-            // Backtrack
-            list.remove(list.size() - 1);
-        }
+        // Don't take the current number
+        ds.remove(ds.size() - 1);
+        solve(index + 1, k, n, sum, ds, ans);
     }
 }
