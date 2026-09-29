@@ -21,17 +21,17 @@ class Solution {
 
         for (int i = index; i < arr.length; i++) {
 
-            // Skip duplicate values at the same level
+
             if (i > index && arr[i] == arr[i - 1])
                 continue;
 
-            // Since array is sorted
+
             if (arr[i] > target)
                 break;
 
             temp.add(arr[i]);
 
-            // i + 1 because each element can be used only once
+
             solve(arr, target - arr[i], i + 1, temp, ans);
 
             temp.remove(temp.size() - 1);
