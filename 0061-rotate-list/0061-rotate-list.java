@@ -17,24 +17,24 @@ class Solution {
         int count=0;
         while(curr != null){
             count++;
-            curr = curr.next;
+            curr = curr.next;              // find the length of list
         }
-        int K = k % count;
+        int K = k % count;                 
         if(K == 0) return head;
-        int toremove = count - K;
+        int toremove = count - K;          // if count is 5 and k is 2 then 5-2=3    means tail currently at head after 3 moves becomes tail of list and next 2 remaing we have to shift forward 
         ListNode tail = head;
         while(toremove > 1){
             tail = tail.next;
             toremove--;
         }
-        ListNode newhead = tail.next;
-        tail.next = null;
+        ListNode newhead = tail.next;        // which is newhead of list after tail 
+        tail.next = null;                    // break the link 
         ListNode lastnode = newhead;
-        while(lastnode.next != null){
+        while(lastnode.next != null){         //.next bcoz pointer stops at lastnode dont move forward
             lastnode = lastnode.next;
         }
-    lastnode.next=head;
-    head=newhead;
+    lastnode.next=head;                      //link lastnode to head
+    head=newhead;                            //newhead ko head bna diya
     return head;
 
     }
