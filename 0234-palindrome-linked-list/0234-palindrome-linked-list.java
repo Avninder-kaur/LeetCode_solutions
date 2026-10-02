@@ -16,9 +16,9 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         } 
-        if(fast != null){
-            slow=slow.next;
-        }
+        // if(fast != null){
+        //     slow=slow.next;
+        // }
         ListNode prev=null;
         ListNode newhead=slow;
         ListNode next;
