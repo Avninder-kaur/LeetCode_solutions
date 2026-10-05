@@ -88,6 +88,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
@@ -352,6 +353,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0040-combination-sum-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Range Minimum/Maximum Query
@@ -365,6 +367,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
