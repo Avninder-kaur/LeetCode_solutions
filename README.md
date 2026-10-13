@@ -18,6 +18,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0046-permutations](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -210,6 +211,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -378,6 +380,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
