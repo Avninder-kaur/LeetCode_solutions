@@ -181,6 +181,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0002-add-two-numbers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0189-rotate-array) |
@@ -376,6 +377,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0045-jump-game-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
@@ -477,4 +479,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
