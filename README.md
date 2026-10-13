@@ -60,6 +60,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -472,4 +473,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0037-sudoku-solver) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
