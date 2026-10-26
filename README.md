@@ -106,6 +106,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1544-make-the-string-great](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1544-make-the-string-great) |
@@ -386,6 +387,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Quicksort
 |  |
 | ------- |
@@ -486,4 +488,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
