@@ -77,6 +77,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0169-majority-element](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -97,6 +98,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
