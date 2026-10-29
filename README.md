@@ -102,6 +102,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0316-remove-duplicate-letters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0771-jewels-and-stones) |
@@ -270,6 +271,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0189-rotate-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -388,6 +390,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Quicksort
