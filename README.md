@@ -93,6 +93,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
@@ -281,6 +282,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
@@ -335,6 +337,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
