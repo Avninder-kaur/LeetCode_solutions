@@ -86,6 +86,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0525-contiguous-array](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0771-jewels-and-stones](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -127,6 +128,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0389-find-the-difference](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Union-Find
 |  |
@@ -317,6 +319,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0226-invert-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0199-binary-tree-right-side-view](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -458,6 +462,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -472,6 +477,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0199-binary-tree-right-side-view](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Manacher
 |  |
 | ------- |
