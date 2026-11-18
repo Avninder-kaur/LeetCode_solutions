@@ -320,6 +320,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0101-symmetric-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -402,6 +403,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0063-unique-paths-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0392-is-subsequence) |
@@ -458,6 +460,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -488,6 +491,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -502,6 +506,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Avninder-kaur/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Algorithm X
 |  |
